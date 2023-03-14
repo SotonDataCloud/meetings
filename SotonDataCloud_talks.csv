@@ -1,0 +1,21 @@
+date,mode_speaker,multi_speaker,location_speaker,speaker,title
+2023-03-14,Remote,1,UK,Tori Tompkins,Getting started with MLOps in Azure
+2023-03-14,Remote,1,UK,Anna-Maria Wykes,Getting started with MLOps in Azure
+2023-03-14,Remote,,Netherlands,Kevin Chant,Spreading your SQL Server wings with Azure Synapse Analytics
+2023-02-08,Remote,,Switzerland,Kay Sauter,Deploying a SQL Server VM with PoSh: Southampton edition
+2023-02-08,Remote,,UK,James Reeves,An end-to-end solution for an affordable data warehouse
+2023-02-08,Remote,,UK,Jess Pomfret,SQL Server 2022 migrations with dbatools
+2022-12-14,Remote,,USA,Tracy Boggiano,Using dbachecks to Validate your SQL Server Estate
+2022-12-14,Remote,,UK,Scott Bell,Cosmos 101
+2022-11-09,Remote,,India,Hariharan Rajendran,SAP BO to Power BI Migration – Approach & Best Practices
+2022-11-09,InPerson,,Belgium,Olivier Van Steenlandt,Improving Team Collaboration Using Database Projects and Azure DevOps
+2022-10-12,Remote,,UK,Alpa Buddhabhatti,A Case Study - Sentiment Analysis using Azure Data Factory and Azure Cognitive service
+2022-10-12,Remote,,Australia,Vahid Doustimajd,The advantages of integrating Power BI with Power Automate
+2022-09-14,InPerson,,UK,Chris Reddington,GitHub for the Data Professional
+2022-09-14,Remote,,Sweden,Magnus Ahlkvist,New and improved features in SQL Server 2022
+2022-08-10,Remote,,Norway,Marthe Moengen,Power BI Service - how to make the most of it!
+2022-07-13,Remote,,USA,Deepthi Goguri,Learn how to use SQL Notebooks
+2022-07-13,InPerson,,UK, Zach Stagers,Data Lakehouse Serving Options
+2022-08-10,Remote,,Argentina,Javier Villegas,Introduction to SQL Server 2022
+2022-06-08,Remote,,UK,Rob Sewell,Think PowerShell and SQL is meh? Meet dbatools!
+2022-06-08,Remote,,UK,Tobias Koprowski,MDfC aka ASC for DBA
